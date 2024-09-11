@@ -1,5 +1,7 @@
 # vue_shop
 
+[vueshop_backend](https://github.com/guobinqiu/vueshop_backend)
+
 ## Project setup
 ```
 npm install
